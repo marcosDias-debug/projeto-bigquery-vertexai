@@ -67,17 +67,15 @@ Plataforma de Inteligência Artificial da Google Cloud utilizada para criação,
 
 ## 👥 Equipe
 
-| Integrante | Função               |
-| ---------- | -------------------- |
-| Klaydiana  | Product Owner (PO)   |
-| Luiz       | Pessoa de Negócio    |
-| Gustavo    | Analista de Negócios |
-| Norran     | Analista de Sistema  |
-| Marcos     | Analista de Sistema  |
-| Izabela    | Analista Cloud       |
-| Rafaela    | Analista Cloud       |
-
----
+| Integrante | Função |
+|------------|---------|
+| Klaydiana Medeiros | Product Owner (PO) |
+| Luiz Batista | Pessoa de Negócio |
+| Gustavo Clemente | Analista de Negócios |
+| Norran Martins | Analista de Sistema |
+| Marcos Vinicius | Analista de Sistema |
+| Izabela Pereira | Analista Cloud |
+| Rafaela roberta | Analista Cloud |
 
 ## 📂 Estrutura do Repositório
 

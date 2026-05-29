@@ -77,16 +77,17 @@ Plataforma de Inteligência Artificial da Google Cloud utilizada para criação,
 | Izabela Pereira | Analista Cloud |
 | Rafaela roberta | Analista Cloud |
 
-## 📂 Estrutura do Repositório
-
-```text
 📦 grupo3-gcp-ia
+│
+├── README.md
 ├── docs/
 ├── diagramas/
 ├── apresentacao/
+├── pesquisas/
 ├── exemplos/
-└── README.md
-```
+├── backend/
+│   ├── py/
+│   └── sql/
 
 ---
 

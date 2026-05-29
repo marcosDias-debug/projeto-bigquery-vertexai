@@ -1,4 +1,4 @@
-# 🚀 Grupo 3 – Google Cloud Platform (GCP)
+# ☁️ Grupo 3 – Google Cloud Platform (GCP)
 
 ## Inteligência Artificial e Machine Learning Gerenciado
 
@@ -72,7 +72,6 @@ Plataforma de Inteligência Artificial da Google Cloud utilizada para criação,
 | Klaydiana  | Product Owner (PO)   |
 | Luiz       | Pessoa de Negócio    |
 | Gustavo    | Analista de Negócios |
-| Emily      | Analista de Negócios |
 | Norran     | Analista de Sistema  |
 | Marcos     | Analista de Sistema  |
 | Izabela    | Analista Cloud       |

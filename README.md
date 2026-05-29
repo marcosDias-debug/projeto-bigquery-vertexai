@@ -1,71 +1,115 @@
-# projeto-bigquery-vertexai
-
-# Grupo 3 - Google Cloud Platform (GCP)
+# 🚀 Grupo 3 – Google Cloud Platform (GCP)
 
 ## Inteligência Artificial e Machine Learning Gerenciado
 
-### Sobre o Projeto
+### 📖 Visão Geral
 
-Este projeto tem como objetivo demonstrar a utilização de serviços da Google Cloud Platform (GCP) para análise de grandes volumes de dados e aplicação de Inteligência Artificial através de Machine Learning gerenciado.
+Este projeto foi desenvolvido com o objetivo de explorar os recursos de Inteligência Artificial e Análise de Dados da Google Cloud Platform (GCP), demonstrando como organizações podem utilizar serviços gerenciados para transformar grandes volumes de dados em informações estratégicas.
 
-A solução utiliza o BigQuery para processamento e análise de dados e o Vertex AI para treinamento de modelos preditivos, permitindo a geração de previsões de risco financeiro de forma escalável e eficiente.
+A solução proposta utiliza o **BigQuery** para armazenamento e processamento analítico de dados em larga escala e o **Vertex AI** para treinamento e utilização de modelos de Machine Learning, permitindo a realização de análises preditivas voltadas para identificação de riscos financeiros.
 
 ---
 
-## Objetivo
+## 🎯 Objetivo do Projeto
 
-Desenvolver uma arquitetura baseada em nuvem capaz de:
+Desenvolver uma arquitetura em nuvem capaz de:
 
-* Armazenar e processar grandes volumes de dados;
+* Processar grandes volumes de dados de forma escalável;
 * Realizar análises de alta performance utilizando BigQuery;
-* Treinar modelos de Machine Learning com Vertex AI;
-* Gerar previsões de risco financeiro a partir dos dados analisados;
-* Demonstrar os benefícios da computação em nuvem aplicada à Inteligência Artificial.
+* Aplicar técnicas de Machine Learning por meio do Vertex AI;
+* Gerar previsões de risco financeiro com base nos dados analisados;
+* Demonstrar os benefícios da computação em nuvem para soluções de Inteligência Artificial.
 
 ---
 
-## Arquitetura Proposta
+## ☁️ Arquitetura da Solução
 
-Fontes de Dados → BigQuery → Vertex AI → Modelo Treinado → Predição de Risco Financeiro
+```text
+Fontes de Dados
+       ↓
+   BigQuery
+(Análise de Dados)
+       ↓
+   Vertex AI
+(Treinamento do Modelo)
+       ↓
+ Modelo Preditivo
+       ↓
+Predição de Risco Financeiro
+```
 
 ---
 
-## Conceitos Cloud Utilizados
+## 🏗️ Serviços Utilizados
+
+### BigQuery
+
+Serviço de Data Warehouse da Google Cloud responsável pelo armazenamento e processamento analítico de grandes volumes de dados.
+
+### Vertex AI
+
+Plataforma de Inteligência Artificial da Google Cloud utilizada para criação, treinamento e implantação de modelos de Machine Learning.
+
+---
+
+## 💡 Conceitos Cloud Aplicados
 
 * Data Analytics
 * Big Data
 * Machine Learning Gerenciado
-* Escalabilidade
-* Alta Disponibilidade
 * Inteligência Artificial na Nuvem
-* Google Cloud Platform (GCP)
+* Escalabilidade Horizontal
+* Alta Disponibilidade
+* Processamento Distribuído
+* Democratização da Inteligência Artificial
 
 ---
 
-## Integrantes
+## 👥 Equipe
 
-| Nome      | Função               |
-| --------- | -------------------- |
-| Klaydiana | Product Owner (PO)   |
-| Luiz      | Pessoa de Negócio    |
-| Gustavo   | Analista de Negócios |
-| Norran    | Analista de Sistema  |
-| Marcos    | Analista de Sistema  |
-| Izabela   | Analista Cloud       |
-| Rafaela   | Analista Cloud       |
+| Integrante | Função               |
+| ---------- | -------------------- |
+| Klaydiana  | Product Owner (PO)   |
+| Luiz       | Pessoa de Negócio    |
+| Gustavo    | Analista de Negócios |
+| Emily      | Analista de Negócios |
+| Norran     | Analista de Sistema  |
+| Marcos     | Analista de Sistema  |
+| Izabela    | Analista Cloud       |
+| Rafaela    | Analista Cloud       |
 
 ---
 
-## Tecnologias Utilizadas
+## 📂 Estrutura do Repositório
+
+```text
+📦 grupo3-gcp-ia
+├── docs/
+├── diagramas/
+├── apresentacao/
+├── exemplos/
+└── README.md
+```
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 * Google Cloud Platform (GCP)
 * BigQuery
 * Vertex AI
 * GitHub
 * Trello
+* Google Slides
 
 ---
 
-## Status do Projeto
+## 📈 Resultado Esperado
 
-Em desenvolvimento.
+Ao final do projeto, espera-se demonstrar como serviços gerenciados da Google Cloud podem ser utilizados para analisar dados em larga escala e gerar previsões inteligentes, apoiando a tomada de decisão baseada em dados.
+
+---
+
+### Status do Projeto
+
+🟡 Em desenvolvimento

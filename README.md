@@ -67,27 +67,39 @@ Plataforma de Inteligência Artificial da Google Cloud utilizada para criação,
 
 ## 👥 Equipe
 
-| Integrante | Função |
-|------------|---------|
-| Klaydiana Medeiros | Product Owner (PO) |
-| Luiz Batista | Pessoa de Negócio |
-| Gustavo Clemente | Analista de Negócios |
-| Norran Martins | Analista de Sistema |
-| Marcos Vinicius | Analista de Sistema |
-| Izabela Pereira | Analista Cloud |
-| Rafaela roberta | Analista Cloud |
+| Integrante                    | Função               |
+| ----------------------------- | -------------------- |
+| Klaydiana Medeiros            | Product Owner (PO)   |
+| Luiz Batista                  | Pessoa de Negócio    |
+| Gustavo Clemente              | Analista de Negócios |
+| Norran Martins de Araújo      | Analista de Sistema  |
+| Marcos Vinícius da Silva Dias | Analista de Sistema  |
+| Izabela Pereira               | Analista Cloud       |
+| Rafaela Roberta               | Analista Cloud       |
 
+---
+
+## 📂 Estrutura do Repositório
+
+```text
 📦 grupo3-gcp-ia
 │
 ├── README.md
+│
 ├── docs/
 ├── diagramas/
 ├── apresentacao/
 ├── pesquisas/
 ├── exemplos/
-├── backend/
-│   ├── py/
-│   └── sql/
+│
+└── backend/
+    │
+    ├── py/
+    │   └── scripts/
+    │
+    └── sql/
+        └── scripts/
+```
 
 ---
 
@@ -96,6 +108,8 @@ Plataforma de Inteligência Artificial da Google Cloud utilizada para criação,
 * Google Cloud Platform (GCP)
 * BigQuery
 * Vertex AI
+* Python
+* SQL
 * GitHub
 * Trello
 * Google Slides
@@ -108,6 +122,6 @@ Ao final do projeto, espera-se demonstrar como serviços gerenciados da Google C
 
 ---
 
-### Status do Projeto
+## 📌 Status do Projeto
 
 🟡 Em desenvolvimento
